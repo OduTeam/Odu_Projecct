@@ -1,0 +1,11 @@
+<?php
+ 
+//Define your host here.
+$host_name = "den1.mysql1.gear.host";
+ 
+//Define your database username here.
+$host_user = "info4";
+ 
+//Define your database password here.
+$host_password = "qwerty1234*";
+?>
